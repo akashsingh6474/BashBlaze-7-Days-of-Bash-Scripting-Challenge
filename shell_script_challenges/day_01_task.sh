@@ -18,4 +18,10 @@ echo "My name is $name"
 learning="DevOps"
 echo "I'm Learning $learning "
 
+#task4: using the  varibales  sum two number
+
+num1=5
+num2=10
+sum=$((num1 + num2))
+echo "sum of $num1 and $num2 is $sum"
 
