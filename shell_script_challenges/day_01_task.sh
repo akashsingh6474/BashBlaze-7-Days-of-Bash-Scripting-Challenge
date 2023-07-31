@@ -11,7 +11,7 @@ echo 'BASH_VERSION='$BASH_VERSION
 HOST_NAME="ubuntu"
 echo "host_name is $HOST_NAME"
 
-#user defind varibale
+#user defind variable
 
 name="akash"
 echo "My name is $name"
@@ -25,3 +25,12 @@ num2=10
 sum=$((num1 + num2))
 echo "sum of $num1 and $num2 is $sum"
 
+
+#task5 : create bash script using  built-in  variables
+echo " my cureent shell interpreter is  $SHELL"
+echo "my Home directory is : $HOME "
+echo "my current user is : $USER"
+echo " my present working  directory is : $PWD"
+
+#task 6 
+echo "list all the files with .sh extension in current directory"
