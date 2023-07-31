@@ -34,3 +34,4 @@ echo " my present working  directory is : $PWD"
 
 #task 6 
 echo "list all the files with .sh extension in current directory"
+ls.sh
